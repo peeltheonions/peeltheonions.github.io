@@ -2,7 +2,7 @@
 layout: page
 title:  Awkward Introductions
 permalink: /courses/intro-data/awkward-introductions/
-background: https://i9.ytimg.com/vi/cM2LybuvzYs/mqdefault.jpg?v=607c52ba&sqp=CNicrYYG&rs=AOn4CLBeH7-gOJZqbWgkppbt1bLHiIh4Vw
+background: "/img/courses/intro-data/awk-intros.jpg"
 ---
 
 Are you looking to learn about data and seeing how data impacts the world? Then this is the course for you! Data related careers have taken off in recent times as a result of data being termed ["The New Oil"](https://www.forbes.com/sites/forbestechcouncil/2019/11/15/data-is-the-new-oil-and-thats-a-good-thing/?sh=5d760b257304). Moreover, data scientists were given the title of ["21st Century Sexiest Job"](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) according to [Harvard Business Review](https://hbr.org).  

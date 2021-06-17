@@ -3,3 +3,12 @@ _site
 node_modules
 Gemfile.lock
 *.gem
+
+# VS Code
+.vscode/
+
+# Jekyll
+.jekyll-cache/
+
+# Mac
+.DS_Store

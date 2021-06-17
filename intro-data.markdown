@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Data Short Course
 permalink: /intro-data/
-background: "/img/awk-intros.jpg"
+background: "/img/courses/intro-data/awk-intros.jpg"
 ---
 
 These notes accompany the [Introduction to Data Short Course Youtube playlist](https://youtube.com/playlist?list=PLWwDogT4QAwUlUi2tTh8ac8qEcf1L1vMj).
@@ -23,25 +23,71 @@ This course is all about setting the scene with everything to do with data analy
 
 ## Contents of the course
 
-- Coming soon!
-
-<!-- <div class="container">
-    <div class="row">
-        <div class="col-lg-12 col-sm-12 mb-4">
-            <div class="card h-50">
-                <a href="intro-data/">
-                    <img class="card-img-top col-lg-4" src="/img/intro-data.png" alt="">
+<div class="container">
+    <div class="card">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="/courses/intro-data/awkward-introductions/">
+                    <img class="img-fluid" src="https://i9.ytimg.com/vi/cM2LybuvzYs/mqdefault.jpg?v=607c52ba&sqp=CNicrYYG&rs=AOn4CLBeH7-gOJZqbWgkppbt1bLHiIh4Vw" alt="">
                 </a>
-                <div class="card-body">
-                    <p class="card-text">
-                        <a href="intro-data/">
-                            Introduction to Data Short Course
-                        </a>
-                    </p>
-                </div>
+            </div>
+            <div class="col-md-8">
+                <p class="">
+                    <a href="/courses/intro-data/awkward-introductions/">
+                        Lesson  1: Awkward introductions
+                    </a>
+                </p>
             </div>
         </div>
     </div>
-</div> -->
+    <div class="card">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="/courses/intro-data/what-is-data/">
+                    <img class="img-fluid" src="https://i9.ytimg.com/vi/yrF3CtrQGf8/mqdefault.jpg?v=607c5935&sqp=CNicrYYG&rs=AOn4CLCbNuBxs8l8O6v6tCMT2R35AI3puw" alt="">
+                </a>
+            </div>
+            <div class="col-md-8">
+                <p class="">
+                    <a href="/courses/intro-data/what-is-data/">
+                        Lesson 2: What is data?
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="/courses/intro-data/data-analytics-part-1/">
+                    <img class="img-fluid" src="https://i9.ytimg.com/vi/NMGVZRskPw8/mqdefault.jpg?v=608ef682&sqp=CNicrYYG&rs=AOn4CLAgfad6eIFoIkFjCA5xCPhr7veh7Q" alt="">
+                </a>
+            </div>
+            <div class="col-md-8">
+                <p class="">
+                    <a href="/courses/intro-data/data-analytics-part-1/">
+                        Lesson 3: Data analytics: Part 1 - What is it?
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="/courses/intro-data/data-analytics-part-2/">
+                    <img class="img-fluid" src="https://i9.ytimg.com/vi/tnJ_CaiYUiA/mqdefault.jpg?v=609e5d86&sqp=CNicrYYG&rs=AOn4CLDYRFI_sNQ-BZN68x-UOYSjHgcaLA" alt="">
+                </a>
+            </div>
+            <div class="col-md-8">
+                <p class="">
+                    <a href="/courses/intro-data/data-analytics-part-2/">
+                        Lesson 4: Data analytics: Part 2 - What skills do you need?
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
 Join me along this data journey where we can peel the onions on what data is, how it impacts the world and how to deal with it 😎.

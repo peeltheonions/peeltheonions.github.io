@@ -2,10 +2,18 @@
 layout: page
 title:  What is data?
 permalink: /courses/intro-data/what-is-data/
-background: "https://i9.ytimg.com/vi/yrF3CtrQGf8/mqdefault.jpg?v=607c5935&sqp=CNicrYYG&rs=AOn4CLCbNuBxs8l8O6v6tCMT2R35AI3puw"
+background: "/img/courses/intro-data/what-is-data.jpg"
 ---
 
-Coming soon!
+Details about this lesson coming soon! In the mean time, check out the video below 😁 Maybe give it a like, and subscribe to my channel 👍 (or else...)
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/yrF3CtrQGf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <a class="btn btn-primary float-left" href="{{ site.url }}/intro-data/">&larr;
     Back to Intro to Data<span class="d-none d-md-inline"></span></a>

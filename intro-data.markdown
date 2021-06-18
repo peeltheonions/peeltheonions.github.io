@@ -28,7 +28,7 @@ This course is all about setting the scene with everything to do with data analy
         <div class="row">
             <div class="col-md-4">
                 <a href="/courses/intro-data/awkward-introductions/">
-                    <img class="img-fluid" src="https://i9.ytimg.com/vi/cM2LybuvzYs/mqdefault.jpg?v=607c52ba&sqp=CNicrYYG&rs=AOn4CLBeH7-gOJZqbWgkppbt1bLHiIh4Vw" alt="">
+                    <img class="img-fluid" src="/img/courses/intro-data/awk-intros.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-8">
@@ -44,7 +44,7 @@ This course is all about setting the scene with everything to do with data analy
         <div class="row">
             <div class="col-md-4">
                 <a href="/courses/intro-data/what-is-data/">
-                    <img class="img-fluid" src="https://i9.ytimg.com/vi/yrF3CtrQGf8/mqdefault.jpg?v=607c5935&sqp=CNicrYYG&rs=AOn4CLCbNuBxs8l8O6v6tCMT2R35AI3puw" alt="">
+                    <img class="img-fluid" src="/img/courses/intro-data/what-is-data.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-8">
@@ -60,7 +60,7 @@ This course is all about setting the scene with everything to do with data analy
         <div class="row">
             <div class="col-md-4">
                 <a href="/courses/intro-data/data-analytics-part-1/">
-                    <img class="img-fluid" src="https://i9.ytimg.com/vi/NMGVZRskPw8/mqdefault.jpg?v=608ef682&sqp=CNicrYYG&rs=AOn4CLAgfad6eIFoIkFjCA5xCPhr7veh7Q" alt="">
+                    <img class="img-fluid" src="/img/courses/intro-data/da-part-1.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-8">
@@ -76,7 +76,7 @@ This course is all about setting the scene with everything to do with data analy
         <div class="row">
             <div class="col-md-4">
                 <a href="/courses/intro-data/data-analytics-part-2/">
-                    <img class="img-fluid" src="https://i9.ytimg.com/vi/tnJ_CaiYUiA/mqdefault.jpg?v=609e5d86&sqp=CNicrYYG&rs=AOn4CLDYRFI_sNQ-BZN68x-UOYSjHgcaLA" alt="">
+                    <img class="img-fluid" src="/img/courses/intro-data/da-part-2.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-8">

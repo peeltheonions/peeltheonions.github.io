@@ -88,6 +88,22 @@ This course is all about setting the scene with everything to do with data analy
             </div>
         </div>
     </div>
+    <div class="card">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="/courses/intro-data/excel-part-1/">
+                    <img class="img-fluid" src="/img/courses/intro-data/excel-part-1.png" alt="">
+                </a>
+            </div>
+            <div class="col-md-8">
+                <p class="">
+                    <a href="/courses/intro-data/excel-part-1">
+                        Lesson 5: How to excel at excel: Part 1 - What are formulas and functions?
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 
 Join me along this data journey where we can peel the onions on what data is, how it impacts the world and how to deal with it 😎.

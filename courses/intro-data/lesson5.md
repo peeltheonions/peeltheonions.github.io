@@ -5,6 +5,13 @@ permalink: /courses/intro-data/excel-part-1/
 background: "/img/courses/intro-data/excel-part-1.png"
 ---
 
+<div class="container">
+    <span class="meta">Posted by me 😁 
+        &middot; {% include read_time.html
+        content=page.content %}
+    </span>
+</div>
+
 Details about this lesson coming soon! In the mean time, check out the video below 😁 Maybe give it a like, and subscribe to my channel 👍 (or else...)
 
 <div class="container">

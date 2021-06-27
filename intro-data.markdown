@@ -24,86 +24,41 @@ This course is all about setting the scene with everything to do with data analy
 ## Contents of the course
 
 <div class="container">
-    <div class="card">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="/courses/intro-data/awkward-introductions/">
-                    <img class="img-fluid" src="/img/courses/intro-data/awk-intros.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-8">
-                <p class="">
-                    <a href="/courses/intro-data/awkward-introductions/">
-                        Lesson  1: Awkward introductions
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="/courses/intro-data/what-is-data/">
-                    <img class="img-fluid" src="/img/courses/intro-data/what-is-data.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-8">
-                <p class="">
-                    <a href="/courses/intro-data/what-is-data/">
-                        Lesson 2: What is data?
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="/courses/intro-data/data-analytics-part-1/">
-                    <img class="img-fluid" src="/img/courses/intro-data/da-part-1.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-8">
-                <p class="">
-                    <a href="/courses/intro-data/data-analytics-part-1/">
-                        Lesson 3: Data analytics: Part 1 - What is it?
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="/courses/intro-data/data-analytics-part-2/">
-                    <img class="img-fluid" src="/img/courses/intro-data/da-part-2.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-8">
-                <p class="">
-                    <a href="/courses/intro-data/data-analytics-part-2/">
-                        Lesson 4: Data analytics: Part 2 - What skills do you need?
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="/courses/intro-data/excel-part-1/">
-                    <img class="img-fluid" src="/img/courses/intro-data/excel-part-1.png" alt="">
-                </a>
-            </div>
-            <div class="col-md-8">
-                <p class="">
-                    <a href="/courses/intro-data/excel-part-1">
-                        Lesson 5: How to excel at excel: Part 1 - What are formulas and functions?
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
+    {%include card.html
+    url='/courses/intro-data/awkward-introductions/' 
+    thumbnail='/img/courses/intro-data/awk-intros.jpg'
+    title='Lesson  1: Awkward introductions'
+    %}
+    {%include card.html
+    url='/courses/intro-data/what-is-data/' 
+    thumbnail='/img/courses/intro-data/what-is-data.jpg'
+    title='Lesson 2: What is data?'
+    %}
+    {%include card.html
+    url='/courses/intro-data/data-analytics-part-1/' 
+    thumbnail='/img/courses/intro-data/da-part-1.jpg'
+    title='Lesson 3: Data analytics: Part 1 - What is it?'
+    %}
+    {%include card.html
+    url='/courses/intro-data/data-analytics-part-2/' 
+    thumbnail='/img/courses/intro-data/da-part-2.jpg'
+    title='Lesson 4: Data analytics: Part 2 - What skills do you need?'
+    %}
+    {%include card.html
+    url='/courses/intro-data/excel-part-1/' 
+    thumbnail='/img/courses/intro-data/excel-part-1.png'
+    title='Lesson 5: How to excel at excel: What are formulas and functions?'
+    %}
+    {%include card.html
+    url='/courses/intro-data/named-ranges/' 
+    thumbnail='/img/courses/intro-data/nm.png'
+    title='Lesson 6: How to excel at excel: Easy referencing with named ranges?'
+    %}
+    {%include card.html
+    url='/courses/intro-data/index-match-match/' 
+    thumbnail='/img/courses/intro-data/imm.png'
+    title='Lesson 7: How to excel at excel: Easy referencing with INDEX MATCH MATCH?'
+    %}
 </div>
 
 Join me along this data journey where we can peel the onions on what data is, how it impacts the world and how to deal with it 😎.

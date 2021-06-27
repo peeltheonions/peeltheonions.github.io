@@ -5,6 +5,13 @@ permalink: /courses/intro-data/what-is-data/
 background: "/img/courses/intro-data/what-is-data.jpg"
 ---
 
+<div class="container">
+    <span class="meta">Posted by me 😁 
+        &middot; {% include read_time.html
+        content=page.content %}
+    </span>
+</div>
+
 Details about this lesson coming soon! In the mean time, check out the video below 😁 Maybe give it a like, and subscribe to my channel 👍 (or else...)
 
 <div class="container">
